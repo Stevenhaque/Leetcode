@@ -6,6 +6,7 @@ This Repo Will Contain Leetcode Questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Stevenhaque/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0831-masking-personal-information](https://github.com/Stevenhaque/Leetcode/tree/main/0831-masking-personal-information/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
